@@ -461,6 +461,7 @@
     "rightColumn": 34,
     "textSize": "0.875rem",
     "widgetId": "mtb9u20phh",
+    "enableServerSideFiltering": false,
     "minWidth": 450,
     "tableData": "{{Query1.data}}",
     "label": "Data",
